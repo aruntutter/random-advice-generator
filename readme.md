@@ -14,8 +14,8 @@
 
 ## Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/your-repo)
-- Live Demo: [Live Demo URL](https://your-project-live-demo-url.com)
+- Solution URL: [GitHub Repository](https://github.com/aruntutter/random-advice-generator)
+- Live Demo: [Live Demo URL](https://aesthetic-starburst-f7653b.netlify.app)
 
 ## Description
 
@@ -23,11 +23,11 @@ The Random Advice Generator is a web application that provides users with random
 
 ## Screenshot
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](./assets/desktop-preview.jpg)
 
 ## Demo
 
-You can see the live demo of the project [here](https://your-project-live-demo-url.com). (Note: Replace the link with the actual live demo URL)
+You can see the live demo of the project [Random Advice Generator](https://aesthetic-starburst-f7653b.netlify.app). (Note: Replace the link with the actual live demo URL)
 
 ## Features
 
@@ -47,7 +47,7 @@ The project is built using the following technologies:
 
 To use the Random Advice Generator, simply open the web application. The application will display a card with a piece of advice. Click the "Generate" button (dice icon) to get a new random advice.
 
-![Usage Example](screenshots/usage.gif)
+![Usage Example](./assets/active-states.jpg)
 
 ## What I Learned
 
